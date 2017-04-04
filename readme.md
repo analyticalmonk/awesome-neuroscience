@@ -5,24 +5,28 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Programming](#programming)
+- [Resources](#resources)
 
 
-## Section
+## Programming
+Software, libraries and frameworks for development purposes.
 
-About this section. Optional. Keep this short and focus on the list.
+### Python
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data
+- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG)
+- [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
 
 
-## Another Section
+## Resources
+Interesting resources related to neuroscience.
 
-### Subsection
+### Blogs
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Action Potential](http://blogs.nature.com/actionpotential) - A forum operated by neuroscience editors at the journal, Nature.
+
+### Newsletters
 
 
 ## Contribute
