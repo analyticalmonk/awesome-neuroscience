@@ -6,7 +6,11 @@
 ## Contents
 
 - [Programming](#programming)
+  - [Python](#python)
 - [Resources](#resources)
+  - [Blogs](#blogs)
+  - [MOOCs](#moocs)
+  - [Newsletters](#newsletters)
 
 
 ## Programming
@@ -14,8 +18,8 @@ Software, libraries and frameworks for development purposes.
 
 ### Python
 
-- [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data
-- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG)
+- [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
+- [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
 - [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
 
 
@@ -26,7 +30,15 @@ Interesting resources related to neuroscience.
 
 - [Action Potential](http://blogs.nature.com/actionpotential) - A forum operated by neuroscience editors at the journal, Nature.
 
+### MOOCs
+
+- [The Fundamentals of Neuroscience | Harvard & edX](https://www.mcb80x.org/) - This course serves an introductory survery of topics in neuroscience and has no specific prerequisites, though some prior exposure to biology and/or chemistry can be helpful.
+- [Introduction to Neuroscience | MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) - Introduction to the mammalian nervous system, with emphasis on the structure and function of the human brain.
+- [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) - This course provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
+- [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - This course explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
+
 ### Newsletters
+- [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
 
 
 ## Contribute
