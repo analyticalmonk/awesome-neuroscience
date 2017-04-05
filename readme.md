@@ -7,6 +7,7 @@
 
 - [Programming](#programming)
   - [Python](#python)
+  - [Matlab](#matlab)
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [MOOCs](#moocs)
@@ -18,10 +19,16 @@ Software, libraries and frameworks for development purposes.
 
 ### Python
 
+- [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
 - [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
 - [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
 - [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
+- [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
+- [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 
+### Matlab
+
+- [FieldTrip](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
 
 ## Resources
 Interesting resources related to neuroscience.
