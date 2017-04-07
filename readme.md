@@ -12,6 +12,7 @@
   - [Blogs](#blogs)
   - [MOOCs](#moocs)
   - [Newsletters](#newsletters)
+  - [Miscellaneous](#miscellaneous)
 
 
 ## Programming
@@ -46,6 +47,9 @@ Interesting resources related to neuroscience.
 
 ### Newsletters
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
+
+### Miscellaneous
+- [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
 
 
 ## Contribute
