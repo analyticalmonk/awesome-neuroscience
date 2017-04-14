@@ -39,6 +39,9 @@ Interesting resources related to neuroscience.
 
 ### Blogs
 
+- [Neuroskeptic](http://blogs.discovermagazine.com/neuroskeptic/) - [Discover magazine](http://discovermagazine.com/)'s neuroscience blog which offers a look at the latest developments in neuroscience, psychiatry and psychology through a critical lens.
+- [The Neurocritic](http://neurocritic.blogspot.in/) - Often critical takes on the most sensationalistic recent findings in Human Brain Imaging, Cognitive Neuroscience, and Psychopharmacology.
+- [The scicurious brain](https://blogs.scientificamerican.com/scicurious-brain/) - A [Scientific American](https://blogs.scientificamerican.com/) blog typically covering one research paper in a single entry.
 - [Action Potential](http://blogs.nature.com/actionpotential) - A forum operated by neuroscience editors at the journal, Nature.
 
 ### MOOCs
