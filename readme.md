@@ -1,7 +1,8 @@
 # awesome-neuroscience [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome neuroscience libraries, software and any content related to the domain.
+> Curated list of awesome neuroscience libraries, software and any content related to the domain.
 
+[Neuroscience](https://en.wikipedia.org/wiki/Neuroscience) is the study of how the nervous system develops, its structure, and what it does. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. It also draws upon fields including mathematics, pharmacology, physics, engineering, and psychology.
 
 ## Contents
 
