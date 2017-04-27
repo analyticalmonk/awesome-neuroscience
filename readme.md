@@ -2,7 +2,7 @@
 
 > Curated list of awesome neuroscience libraries, software and any content related to the domain.
 
-[Neuroscience](https://en.wikipedia.org/wiki/Neuroscience) is the study of how the nervous system develops, its structure, and what it does. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. It also draws upon fields including mathematics, pharmacology, physics, engineering, and psychology.
+[Neuroscience](https://en.wikipedia.org/wiki/Neuroscience) is the study of how the nervous system develops, its structure, and what it does. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Traditionally, neuroscience has been seen as a branch of biology, but it has grown to encompass a wide range of interdisciplinary fields that work together toward elucidating brain function at multiple levels of investigation.
 
 ## Contents
 
@@ -12,6 +12,7 @@
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [MOOCs](#moocs)
+  - [Communities](#communities)
   - [Newsletters](#newsletters)
   - [Miscellaneous](#miscellaneous)
 
@@ -53,6 +54,9 @@ Interesting resources related to neuroscience.
 - [Introduction to Neuroscience | MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) - Introduction to the mammalian nervous system, with emphasis on the structure and function of the human brain.
 - [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) - This course provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
 - [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - This course explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
+
+### Communities
+- [Neuroscience on Quora](https://www.quora.com/topic/Neuroscience-1) - Neuroscience topic on Quora contains answers, often by experts, to questions ranging from basic to advanced.
 
 ### Newsletters
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
