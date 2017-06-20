@@ -15,6 +15,7 @@
   - [C++](#c++)
   - [Javascript](#javascript)
 - [Resources](#resources)
+  - [E-Books](#ebooks)
   - [Blogs](#blogs)
   - [MOOCs](#moocs)
   - [Communities](#communities)
@@ -53,6 +54,9 @@ Software, libraries and frameworks for development purposes.
 ## Resources
 Interesting resources related to neuroscience.
 
+### E-Books
+- [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm) - Open-access electronic textbook and interactive courseware covering neuroscience in depth. Provided by the Department of Neurobiology and Anantomy at the University of Texas Medical School at Houston.
+
 ### Blogs
 
 - [Neuroskeptic](http://blogs.discovermagazine.com/neuroskeptic/) - [Discover magazine](http://discovermagazine.com/)'s neuroscience blog which offers a look at the latest developments in neuroscience, psychiatry and psychology through a critical lens.
@@ -78,6 +82,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
 
 ### Miscellaneous
+- [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
 - [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
 
 
