@@ -1,5 +1,5 @@
-![Awesome Neuroscience](./AWESOME2.png)
-
+<!-- ![Awesome Neuroscience](./AWESOME2.png) -->
+<img src="./AWESOME2.png" width="50%">
 
 > Curated list of awesome neuroscience libraries, software and any content related to the domain.
 
