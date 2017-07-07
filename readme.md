@@ -1,5 +1,3 @@
-# Awesome Neuroscience [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 ![Awesome Neuroscience](./AWESOME2.png)
 
 
@@ -7,15 +5,18 @@
 
 [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience) is the study of how the nervous system develops, its structure, and what it does. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Traditionally, neuroscience has been seen as a branch of biology, but it has grown to encompass a wide range of interdisciplinary fields that work together toward elucidating brain function at multiple levels of investigation.
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
 ## Contents
 
 - [Programming](#programming)
   - [Python](#python)
   - [Matlab](#matlab)
   - [C++](#c++)
-  - [Javascript](#javascript)
+  - [JavaScript](#javascript)
 - [Resources](#resources)
-  - [E-Books](#ebooks)
+  - [Ebooks](#ebooks)
   - [Blogs](#blogs)
   - [MOOCs](#moocs)
   - [Communities](#communities)
@@ -48,13 +49,13 @@ Software, libraries and frameworks for development purposes.
 
 - [Brayns](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
 
-### Javascript
+### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 
 ## Resources
 Interesting resources related to neuroscience.
 
-### E-Books
+### Ebooks
 - [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm) - Open-access electronic textbook and interactive courseware covering neuroscience in depth. Provided by the Department of Neurobiology and Anantomy at the University of Texas Medical School at Houston.
 - [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) - Text which provides an in-depth introduction to the main ideas in the computational cognitive neuroscience, a field which aims to understand the brain by using biologically based computational models.
 
@@ -76,8 +77,8 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - Explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
 
 ### Communities
-- [Neuroscience on Quora](https://www.quora.com/topic/Neuroscience-1) - Neuroscience topic on Quora contains answers, often by experts, to questions ranging from basic to advanced.
-- [Neuroscience on Reddit](https://www.reddit.com/r/ScienceNetwork/comments/ptye0/link_tables/) - List of neuroscience, psychology and cognitive science subreddits.
+- [Quora](https://www.quora.com/topic/Neuroscience-1) - Neuroscience topic on Quora contains answers, often by experts, to questions ranging from basic to advanced.
+- [Reddit](https://www.reddit.com/r/ScienceNetwork/comments/ptye0/link_tables/) - List of neuroscience, psychology and cognitive science subreddits.
 
 ### Newsletters
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
