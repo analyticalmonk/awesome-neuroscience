@@ -13,7 +13,7 @@
 - [Programming](#programming)
   - [Python](#python)
   - [Matlab](#matlab)
-  - [C++](#c++)
+  - [C++](#c)
   - [JavaScript](#javascript)
 - [Resources](#resources)
   - [Ebooks](#ebooks)
