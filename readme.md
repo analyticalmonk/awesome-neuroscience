@@ -52,6 +52,9 @@ Software, libraries and frameworks for development purposes.
 ### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 
+### R
+- [brainGraph](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
+
 ## Resources
 Interesting resources related to neuroscience.
 
