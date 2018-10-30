@@ -82,6 +82,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 
 ### Newsletters
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
+- [Comp-neuro](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro) - A mailing list that is is intended to address the broad range of research approaches and issues involved in the general field of computational neuroscience. 
 
 ### Miscellaneous
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
