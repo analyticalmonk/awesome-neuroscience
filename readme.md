@@ -67,7 +67,7 @@ Interesting resources related to neuroscience.
 
 ### Blogs
 
-- [Neuroskeptic](http://blogs.discovermagazine.com/neuroskeptic/) - [Discover magazine](http://discovermagazine.com/)'s neuroscience blog which offers a look at the latest developments in neuroscience, psychiatry and psychology through a critical lens.
+- [Neuroskeptic](https://www.discovermagazine.com/author/neuroskeptic) - [Discover magazine](http://discovermagazine.com/)'s neuroscience blog which offers a look at the latest developments in neuroscience, psychiatry and psychology through a critical lens.
 - [The Neurocritic](http://neurocritic.blogspot.in/) - Often critical takes on the most sensationalistic recent findings in Human Brain Imaging, Cognitive Neuroscience, and Psychopharmacology.
 - [The scicurious brain](https://blogs.scientificamerican.com/scicurious-brain/) - Maintained by [Scientific American](https://blogs.scientificamerican.com/), this blog typically covers one research paper in a single entry.
 - [Action Potential](http://blogs.nature.com/actionpotential) - Forum operated by neuroscience editors at the journal, Nature.
@@ -97,7 +97,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Searchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.
 - [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
-- [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
+- [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 - [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 
 
