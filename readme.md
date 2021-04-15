@@ -82,6 +82,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [Introduction to Neuroscience | MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) - Introduction to the mammalian nervous system, with emphasis on the structure and function of the human brain.
 - [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) - Provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
 - [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - Explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
+- [Neuromatch Academy](https://github.com/NeuromatchAcademy/course-content) - Jupyter notebooks for the three-week intensive summer school in computational neuroscience. 
 
 ### Communities
 - [Quora](https://www.quora.com/topic/Neuroscience-1) - Neuroscience topic on Quora contains answers, often by experts, to questions ranging from basic to advanced.
