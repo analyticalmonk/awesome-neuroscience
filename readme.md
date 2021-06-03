@@ -43,8 +43,12 @@ Software, libraries and frameworks for development purposes.
  
 ### Matlab
 
+- [Brain Dynamics Toolbox](https://bdtoolbox.org/) - Open software for simulating dynamical systems in neuroscience.
+- [BrainStorm](https://neuroimage.usc.edu/brainstorm/) - Open-source application dedicated to the analysis of brain recordings (MEG, EEG, fNIRS, ECoG, depth electrodes and multiunit electrophysiology). 
+- [EEGLAB](https://sccn.ucsd.edu/eeglab/) - Interactive Matlab toolbox for processing continuous and event-related EEG, MEG and other electrophysiological data.
 - [FieldTrip](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
 - [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
+- [SPM](https://www.fil.ion.ucl.ac.uk/spm/) - Free and open source software for the  analysis of brain imaging data sequences (fMRI, PET, SPECT, EEG, MEG).
 
 ### C++
 
