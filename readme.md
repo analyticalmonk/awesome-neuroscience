@@ -40,6 +40,7 @@ Software, libraries and frameworks for development purposes.
 - [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
 - [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
  - [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
+ - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
  
 ### Matlab
 
