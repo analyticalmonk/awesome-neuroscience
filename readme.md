@@ -41,6 +41,7 @@ Software, libraries and frameworks for development purposes.
 - [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
  - [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
  - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
+ - [NiMARE](https://nimare.readthedocs.io/en/latest/) - NiMARE is a Python package for neuroimaging meta-analyses
  
 ### Matlab
 
@@ -70,6 +71,8 @@ Interesting resources related to neuroscience.
 - [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm) - Open-access electronic textbook and interactive courseware covering neuroscience in depth. Provided by the Department of Neurobiology and Anantomy at the University of Texas Medical School at Houston.
 - [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) - Text which provides an in-depth introduction to the main ideas in the computational cognitive neuroscience, a field which aims to understand the brain by using biologically based computational models.
 - [Neuronal Dynamics](https://neuronaldynamics.epfl.ch) - Open-access electronic textbook that covers computational and theoretical neuroscience. Provided by École Polytechnique Fédérale de Lausanne (EPFL).
+- [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/) - Book companion to [Andy's Brain Blog](https://www.andysbrainblog.com/). Provides an introduction to working in a Unix environment, fMRI analysis, and commonplace neuroimaging tools and topics. 
+- [NiPraxis](https://textbook.nipraxis.org/intro.html) - Textbook for the [NiPraxis course](https://nipraxis.org/), covers fundamental concepts in neuroimaging analysis and how they relate to the wider world of statistics, engineering and computer science. Learn how to work with data and code to get a deeper understanding of how fMRI methods work, how they can fail, how to fix them, and how to develop new methods.
 
 ### Blogs
 
@@ -77,6 +80,7 @@ Interesting resources related to neuroscience.
 - [The Neurocritic](http://neurocritic.blogspot.in/) - Often critical takes on the most sensationalistic recent findings in Human Brain Imaging, Cognitive Neuroscience, and Psychopharmacology.
 - [The scicurious brain](https://blogs.scientificamerican.com/scicurious-brain/) - Maintained by [Scientific American](https://blogs.scientificamerican.com/), this blog typically covers one research paper in a single entry.
 - [Action Potential](http://blogs.nature.com/actionpotential) - Forum operated by neuroscience editors at the journal, Nature.
+- [Andy's Brain Blog](https://www.andysbrainblog.com/) - A large collection of articles, tutorials, and videos, covering many of the popular neuroimaging tools and methods. 
 
 ### MOOCs
 
@@ -93,6 +97,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [Quora](https://www.quora.com/topic/Neuroscience-1) - Neuroscience topic on Quora contains answers, often by experts, to questions ranging from basic to advanced.
 - [Reddit](https://www.reddit.com/r/ScienceNetwork/comments/ptye0/link_tables/) - List of neuroscience, psychology and cognitive science subreddits.
 - [StackExchange](https://psychology.stackexchange.com) - Psychology and neuroscience StackExchange site.
+- [neuroimaging@python.org](https://mail.python.org/mailman/listinfo/neuroimaging) - A list for discussion of neuroimaging analysis in Python. Among other things, this list is home to discussions concerning [NiPy](https://nipy.org/) projects (including NiBabel, Nilearn, dipy, MNE-Python, and more).
 
 ### Newsletters
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
@@ -109,6 +114,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 - [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 - [NeuroHackademy](https://neurohackademy.org/course_type/lectures/) - Summer school in neuroimaging and data science, held at the University of Washington eScience Institute. Lectures are available through the institute's [YouTube channel](https://www.youtube.com/@UWeScienceInstitute).
+- [SORTED](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
 
 ## Contribute
 
