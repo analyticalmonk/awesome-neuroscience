@@ -41,6 +41,7 @@ Software, libraries and frameworks for development purposes.
 - [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
  - [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
  - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
+ - [NiMARE](https://nimare.readthedocs.io/en/latest/) - NiMARE is a Python package for neuroimaging meta-analyses
  
 ### Matlab
 
@@ -71,6 +72,7 @@ Interesting resources related to neuroscience.
 - [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) - Text which provides an in-depth introduction to the main ideas in the computational cognitive neuroscience, a field which aims to understand the brain by using biologically based computational models.
 - [Neuronal Dynamics](https://neuronaldynamics.epfl.ch) - Open-access electronic textbook that covers computational and theoretical neuroscience. Provided by École Polytechnique Fédérale de Lausanne (EPFL).
 - [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/) - Book companion to [Andy's Brain Blog](https://www.andysbrainblog.com/). Provides an introduction to working in a Unix environment, fMRI analysis, and commonplace neuroimaging tools and topics. 
+- [NiPraxis](https://textbook.nipraxis.org/intro.html) - Textbook for the [NiPraxis course](https://nipraxis.org/), covers fundamental concepts in neuroimaging analysis and how they relate to the wider world of statistics, engineering and computer science. Learn how to work with data and code to get a deeper understanding of how fMRI methods work, how they can fail, how to fix them, and how to develop new methods.
 
 ### Blogs
 
@@ -110,6 +112,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
 - [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 - [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
+- [SORTED](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
 
 
 ## Contribute
