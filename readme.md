@@ -116,7 +116,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 - [NeuroHackademy](https://neurohackademy.org/course_type/lectures/) - Summer school in neuroimaging and data science, held at the University of Washington eScience Institute. Lectures are available through the institute's [YouTube channel](https://www.youtube.com/@UWeScienceInstitute).
 - [SORTED](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
-- [Neurotansmitter Compendium](https://fabianzimber.github.io/know-your-hormones/) - A compendium that details the psychophysiological effects of dopamine, norepinephrine, serotonin, and melatonin, linking their systemic interactions and dysregulation to major disorders like depression, ADHD, and PTSD.
+- [Neurotansmitter Compendium](https://fabianzimber.github.io/hormone-compendium/) - A compendium that details the psychophysiological effects of dopamine, norepinephrine, serotonin, and melatonin, linking their systemic interactions and dysregulation to major disorders like depression, ADHD, and PTSD.
 
 ## Contribute
 
