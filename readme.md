@@ -43,7 +43,8 @@ Software, libraries and frameworks for development purposes.
  - [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
  - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
  - [NiMARE](https://nimare.readthedocs.io/en/latest/) - NiMARE is a Python package for neuroimaging meta-analyses
- 
+ - [SLEAP](https://github.com/talmolab/sleap) - Multi-animal pose tracking system for neuroscience behavioral experiments, supporting fast GPU-accelerated inference and active learning annotation workflows.
+
 ### Matlab
 
 - [Brain Dynamics Toolbox](https://bdtoolbox.org/) - Open software for simulating dynamical systems in neuroscience.
