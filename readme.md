@@ -68,6 +68,7 @@ Software, libraries and frameworks for development purposes.
 ## Resources
 Interesting resources related to neuroscience.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for neuroscience research workflow orchestration, automated data analysis management, and multi-agent coordination. MIT licensed.
 ### Ebooks
 - [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm) - Open-access electronic textbook and interactive courseware covering neuroscience in depth. Provided by the Department of Neurobiology and Anantomy at the University of Texas Medical School at Houston.
 - [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) - Text which provides an in-depth introduction to the main ideas in the computational cognitive neuroscience, a field which aims to understand the brain by using biologically based computational models.
