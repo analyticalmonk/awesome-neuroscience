@@ -43,6 +43,7 @@ Software, libraries and frameworks for development purposes.
  - [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
  - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
  - [NiMARE](https://nimare.readthedocs.io/en/latest/) - NiMARE is a Python package for neuroimaging meta-analyses
+ - [CortexLab](https://github.com/siddhant-rajhans/cortexlab) - Enhanced multimodal fMRI brain encoding toolkit built on Meta's TRIBE v2. Brain-alignment benchmarking (RSA, CKA, Procrustes), cognitive load scoring, temporal dynamics, ROI connectivity, 3D brain visualization, and live inference.
  
 ### Matlab
 
