@@ -57,6 +57,10 @@ Software, libraries and frameworks for development purposes.
 
 - [Brayns](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
 
+### Julia
+
+- [grugbot420](https://github.com/grug-group420/grugbot420) - A neuromorphic cognitive engine for multi-model AI orchestration. Deploys domain-expert AI specimens through architectural configuration rather than traditional training.
+
 ### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 - [jsPsych](https://www.jspsych.org/) - Library for creating and running behavioural experiments in a web browser.
