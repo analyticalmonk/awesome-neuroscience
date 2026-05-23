@@ -87,7 +87,6 @@ Interesting resources related to neuroscience.
 ### Blogs
 
 - [Neuroskeptic](https://www.discovermagazine.com/author/neuroskeptic) - [Discover magazine](http://discovermagazine.com/)'s neuroscience blog which offers a look at the latest developments in neuroscience, psychiatry and psychology through a critical lens.
-- [The Neurocritic](https://neurocritic.blogspot.com/) - Often critical takes on the most sensationalistic recent findings in Human Brain Imaging, Cognitive Neuroscience, and Psychopharmacology.
 - [Andy's Brain Blog](https://www.andysbrainblog.com/) - A large collection of articles, tutorials, and videos, covering many of the popular neuroimaging tools and methods. 
 
 ### MOOCs
