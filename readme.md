@@ -43,6 +43,9 @@ Software, libraries and frameworks for development purposes.
  - [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
  - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
  - [NiMARE](https://nimare.readthedocs.io/en/latest/) - NiMARE is a Python package for neuroimaging meta-analyses
+- [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation toolkit for animal behavior analysis using transfer learning with deep neural networks.
+- [CaImAn](https://github.com/flatironinstitute/CaImAn) - Computational toolbox for large-scale calcium imaging data analysis, including motion correction, source extraction, and deconvolution.
+- [Elephant](https://github.com/NeuralEnsemble/elephant) - Library for the analysis of electrophysiology data, providing tools for spike train statistics, signal processing, and connectivity analysis.
  
 ### Matlab
 
