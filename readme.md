@@ -119,6 +119,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 - [NeuroHackademy](https://neurohackademy.org/course_type/lectures/) - Summer school in neuroimaging and data science, held at the University of Washington eScience Institute. Lectures are available through the institute's [YouTube channel](https://www.youtube.com/@UWeScienceInstitute).
 - [SORTED](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
+- [BGPT](https://bgpt.pro) - Searchable database of scientific papers built from raw experimental data extracted from full-text studies. Available as an [MCP server](https://github.com/BioContext/bgpt-mcp) for AI-assisted research workflows.
 
 ## Contribute
 
