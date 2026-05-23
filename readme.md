@@ -101,13 +101,12 @@ MOOCs may be patterned on a college or university course or may be less structur
 
 ### Communities
 - [Quora](https://www.quora.com/topic/Neuroscience-1) - Neuroscience topic on Quora contains answers, often by experts, to questions ranging from basic to advanced.
-- [Reddit](https://www.reddit.com/r/neuroscience/) - Subreddit for discussion of neuroscience news, research, and questions.
+- [r/neuroscience](https://www.reddit.com/r/neuroscience/) - Subreddit for discussion of neuroscience news, research, and questions.
 - [StackExchange](https://psychology.stackexchange.com) - Psychology and neuroscience StackExchange site.
 - [neuroimaging@python.org](https://mail.python.org/mailman/listinfo/neuroimaging) - A list for discussion of neuroimaging analysis in Python. Among other things, this list is home to discussions concerning [NiPy](https://nipy.org/) projects (including NiBabel, Nilearn, dipy, MNE-Python, and more).
 
 ### Newsletters
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
-- [Comp-neuro](https://groups.google.com/g/comp-neuro) - A mailing list that is intended to address the broad range of research approaches and issues involved in the general field of computational neuroscience.
 - [BrainPost](https://www.brainpost.co/) - A mailing list that delivers weekly easy-to-read summaries of the latest neuroscience publications.
 
 ### Miscellaneous
