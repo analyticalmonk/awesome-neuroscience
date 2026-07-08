@@ -121,6 +121,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 - [NeuroHackademy](https://neurohackademy.org/) - Summer school in neuroimaging and data science, held at the University of Washington eScience Institute. Lectures are available through the institute's [YouTube channel](https://www.youtube.com/@UWeScienceInstitute).
 - [SORTED](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
+- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - Interactive quiz on 40 psychology laws and cognitive biases with 320+ real-world scenarios. Bridges neuroscience research and everyday behavior recognition.
 - [BIDS](https://bids.neuroimaging.io/) - Brain Imaging Data Structure: community standard for organizing neuroimaging and behavioral data, supported by most modern neuroimaging tools.
 - [OpenNeuro](https://openneuro.org/) - Free and open platform for sharing and analyzing neuroimaging data (MRI, MEG, EEG, iEEG, ECoG, ASL, PET).
 
