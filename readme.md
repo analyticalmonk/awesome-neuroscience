@@ -123,6 +123,8 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [SORTED](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
 - [BIDS](https://bids.neuroimaging.io/) - Brain Imaging Data Structure: community standard for organizing neuroimaging and behavioral data, supported by most modern neuroimaging tools.
 - [OpenNeuro](https://openneuro.org/) - Free and open platform for sharing and analyzing neuroimaging data (MRI, MEG, EEG, iEEG, ECoG, ASL, PET).
+- [Mind Traps Quiz](https://ordinarymantrying.com/tools/mind-traps.html) - Scenario-based quiz testing cognitive bias recognition in real decisions (not just definitions). 8,000+ players, open source.
+- [Working Memory Test](https://ordinarymantrying.com/tools/digit-memory-test/) - Interactive working memory challenge: memorize digit strings while reading quotes, benchmarked against WAIS-IV norms. Open source.
 
 ## Contribute
 
