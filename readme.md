@@ -53,8 +53,9 @@ Software, libraries and frameworks for development purposes.
 - [Suite2p](https://github.com/MouseLand/suite2p) - Pipeline for cell detection and signal extraction from large-scale two-photon calcium imaging recordings.
 - [Neo](https://github.com/NeuralEnsemble/python-neo) - Package for representing electrophysiology data in Python, with readers for a wide range of neurophysiology file formats.
 - [Monty](https://github.com/thousandbrainsproject/tbp.monty) - Sensorimotor learning framework based on the thousand brains theory of the neocortex.
-- [PyNoetic](https://github.com/NeuroDiag/PyNoetic-official) - A Modular Python Framework for No-Code Development of EEG Brain-Computer Interfaces supporting end-to-end BCI design. 
- 
+- [PyNoetic](https://github.com/NeuroDiag/PyNoetic-official) - A Modular Python Framework for No-Code Development of EEG Brain-Computer Interfaces supporting end-to-end BCI design.
+- [SynapChart](https://github.com/yuchenz93/SynapChart) - Visual, node-based pipeline builder for building EEG/LFP and spike-train analysis pipelines by connecting blocks on a canvas. Open source and pip-installable.
+
 ### Matlab
 
 - [Brain Dynamics Toolbox](https://bdtoolbox.org/) - Open software for simulating dynamical systems in neuroscience.
