@@ -71,6 +71,7 @@ Software, libraries and frameworks for development purposes.
 ### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 - [jsPsych](https://www.jspsych.org/) - Library for creating and running behavioural experiments in a web browser.
+- [BrainPilot](https://github.com/NeuroAIHub/BrainPilot) - Open-source TypeScript multi-agent research platform for literature review, neural data analysis, coding, and writing, with cloud access and inspectable execution traces.
 
 ### R
 - [nat: NeuroAnatomy Toolbox](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
