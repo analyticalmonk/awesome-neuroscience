@@ -80,7 +80,7 @@ Software, libraries and frameworks for development purposes.
 Interesting resources related to neuroscience.
 
 ### Ebooks
-- [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm) - Open-access electronic textbook and interactive courseware covering neuroscience in depth. Provided by the Department of Neurobiology and Anantomy at the University of Texas Medical School at Houston.
+- [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm) - Open-access electronic textbook and interactive courseware covering neuroscience in depth. Provided by the Department of Neurobiology and Anatomy at the University of Texas Medical School at Houston.
 - [Computational Cognitive Neuroscience](https://compcogneuro.org/book) - Text which provides an in-depth introduction to the main ideas in the computational cognitive neuroscience, a field which aims to understand the brain by using biologically based computational models.
 - [Neuronal Dynamics](https://neuronaldynamics.epfl.ch) - Open-access electronic textbook that covers computational and theoretical neuroscience. Provided by École Polytechnique Fédérale de Lausanne (EPFL).
 - [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/) - Book companion to [Andy's Brain Blog](https://www.andysbrainblog.com/). Provides an introduction to working in a Unix environment, fMRI analysis, and commonplace neuroimaging tools and topics. 
