@@ -113,6 +113,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 
 ### Miscellaneous
 - [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
+- [Fly Brain LeetCode](https://github.com/pragyaangaur/Fly-Brain-LeetCode) - The frozen FlyWire v783 fruit fly connectome with a trained linear readout, judged on hidden LeetCode test cases against shuffled-wiring and order-blind controls.
 - [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - Simulator for a historical computational model based on neurons.
 - [ModelDB](https://modeldb.science/) - Searchable database for computational neuroscience models.
 - [NeuroElectro](https://neuroelectro.org/) - Searchable database of neurons and their electrophysiological properties (extracted from literature)
