@@ -54,6 +54,7 @@ Software, libraries and frameworks for development purposes.
 - [Neo](https://github.com/NeuralEnsemble/python-neo) - Package for representing electrophysiology data in Python, with readers for a wide range of neurophysiology file formats.
 - [Monty](https://github.com/thousandbrainsproject/tbp.monty) - Sensorimotor learning framework based on the thousand brains theory of the neocortex.
 - [PyNoetic](https://github.com/NeuroDiag/PyNoetic-official) - A Modular Python Framework for No-Code Development of EEG Brain-Computer Interfaces supporting end-to-end BCI design. 
+- [SYNAPTIK](https://github.com/Fr4n0b/synaptik) - Evidence-structure analysis and multi-class genomic reconciliation for patient-derived iPSC-neuron research. 
  
 ### Matlab
 
