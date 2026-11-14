@@ -54,6 +54,7 @@ Software, libraries and frameworks for development purposes.
 - [Neo](https://github.com/NeuralEnsemble/python-neo) - Package for representing electrophysiology data in Python, with readers for a wide range of neurophysiology file formats.
 - [Monty](https://github.com/thousandbrainsproject/tbp.monty) - Sensorimotor learning framework based on the thousand brains theory of the neocortex.
 - [PyNoetic](https://github.com/NeuroDiag/PyNoetic-official) - A Modular Python Framework for No-Code Development of EEG Brain-Computer Interfaces supporting end-to-end BCI design. 
+- [NeckLink](https://github.com/indian-aman/necklink) - Compiles circuits from the 157,789-neuron adult Drosophila BANC v888 connectome into Python and zero-float C99 sensorimotor controllers with Maslov-Sneppen degree-preserving rewiring benchmarks.
  
 ### Matlab
 
