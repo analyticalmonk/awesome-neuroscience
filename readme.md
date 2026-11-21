@@ -123,6 +123,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [SORTED](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
 - [BIDS](https://bids.neuroimaging.io/) - Brain Imaging Data Structure: community standard for organizing neuroimaging and behavioral data, supported by most modern neuroimaging tools.
 - [OpenNeuro](https://openneuro.org/) - Free and open platform for sharing and analyzing neuroimaging data (MRI, MEG, EEG, iEEG, ECoG, ASL, PET).
+- [Planum](https://planumatlas.com) - Interactive browser atlas of one real human brain, with cortical atlases, white-matter tracts and published functional and clinical findings mapped onto it and traced to their sources.
 
 ## Contribute
 
