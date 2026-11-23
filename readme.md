@@ -115,6 +115,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
 - [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - Simulator for a historical computational model based on neurons.
 - [ModelDB](https://modeldb.science/) - Searchable database for computational neuroscience models.
+- [MuseRecorder](https://github.com/Shisi141414/MuseRecorder) - Open-source Android app for recording EEG from Muse headbands (Muse S Gen 2 / Muse 2 / Muse S / Muse 2016) with live views and Mind Monitor-compatible CSV output.
 - [NeuroElectro](https://neuroelectro.org/) - Searchable database of neurons and their electrophysiological properties (extracted from literature)
 - [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
 - [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
